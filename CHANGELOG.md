@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 
 ### Fixed
+- Bump `full_moon_derive`'s edition to `2021`.
 - Fixed parse failed with Chinese token in comment and bump deps.
 - Fixed `\` escapes in strings for Lua 5.2+.
 
